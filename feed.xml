@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>fcess</title>
-    <link href="https://github.com/ozonered/ozonered.github.io.git/feed.xml" rel="self" />
-    <link href="https://github.com/ozonered/ozonered.github.io.git" />
-    <updated>2024-06-26T17:01:10+08:00</updated>
+    <link href="https://ozonered.github.io/feed.xml" rel="self" />
+    <link href="https://ozonered.github.io" />
+    <updated>2024-06-26T18:36:37+08:00</updated>
     <author>
         <name>Yan</name>
     </author>
-    <id>https://github.com/ozonered/ozonered.github.io.git</id>
+    <id>https://ozonered.github.io</id>
 
     <entry>
         <title>No.2</title>
         <author>
             <name>Yan</name>
         </author>
-        <link href="https://github.com/ozonered/ozonered.github.io.git/no2.html"/>
-        <id>https://github.com/ozonered/ozonered.github.io.git/no2.html</id>
+        <link href="https://ozonered.github.io/no2.html"/>
+        <id>https://ozonered.github.io/no2.html</id>
 
         <updated>2024-06-26T14:20:32+08:00</updated>
             <summary>
@@ -25,17 +25,17 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Second</p>
+                <p>Second<figure class="post__image"><img loading="lazy"  src="https://ozonered.github.io/media/posts/2/Quan-Jing.jpg" alt="" width="4096" height="1745" sizes="100vw" srcset="https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-xs.jpg 300w ,https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-sm.jpg 480w ,https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-md.jpg 768w ,https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-lg.jpg 1024w ,https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-xl.jpg 1360w ,https://ozonered.github.io/media/posts/2/responsive/Quan-Jing-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>第一个</title>
+        <title>di yi ge</title>
         <author>
             <name>Yan</name>
         </author>
-        <link href="https://github.com/ozonered/ozonered.github.io.git/di-yi-ge.html"/>
-        <id>https://github.com/ozonered/ozonered.github.io.git/di-yi-ge.html</id>
+        <link href="https://ozonered.github.io/di-yi-ge.html"/>
+        <id>https://ozonered.github.io/di-yi-ge.html</id>
 
         <updated>2024-06-26T13:56:15+08:00</updated>
             <summary>
@@ -45,7 +45,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://github.com/ozonered/ozonered.github.io.git/media/posts/1/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi.png" alt="" width="2830" height="1460" sizes="100vw" srcset="https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-xs.png 300w ,https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-sm.png 480w ,https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-md.png 768w ,https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-lg.png 1024w ,https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-xl.png 1360w ,https://github.com/ozonered/ozonered.github.io.git/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-2xl.png 1600w"></figure>first page</p>
+                <figure class="post__image"><img loading="lazy"  src="https://ozonered.github.io/media/posts/1/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi.png" alt="" width="2830" height="1460" sizes="100vw" srcset="https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-xs.png 300w ,https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-sm.png 480w ,https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-md.png 768w ,https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-lg.png 1024w ,https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-xl.png 1360w ,https://ozonered.github.io/media/posts/1/responsive/Zhong-Guo-MBTYan-Yi-Jin-Hua-Shi-2xl.png 1600w"></figure>first page</p>
             ]]>
         </content>
     </entry>
